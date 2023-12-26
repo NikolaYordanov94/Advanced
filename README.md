@@ -2,7 +2,7 @@
 
 ## 🧾Description 
 About the course:
-In this course the main aspect is learning to create and work with linear data structures - advanced and multidimensional arrays, matrixes. Getting familiar with Generic concept - creating template classes and methods.
+In this course the main aspect is learning to create and work with linear data structures - advanced and multidimensional arrays. Getting familiar with Generic concept - creating template classes and methods.
 Working with streams,files and directories.
 Functional programming paradigm is learned, as well.
 
