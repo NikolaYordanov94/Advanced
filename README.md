@@ -20,8 +20,8 @@ Functional programming paradigm is learned, as well.
 - Implementing Linked List
 - Implementing Stack and Queue
 
-## Languages
+## ➕Languages
 - Java <img align="center" style="margin:0.5rem" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25"/>
 
-## Tools
+## 🛠️Tools
 - IntelliJ IDEA <img align="center" style="margin:0.5rem" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="25" height="25"/>
